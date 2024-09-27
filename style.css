@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+
+.div1 {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+}
+
+#titulo {
+  color: chocolate;
+}
+
+section {
+  border: solid 2px;
+}
+section .div2 {
+  background-color: aquamarine;
+}
+section .div2 p {
+  color: red;
+}/*# sourceMappingURL=style.css.map */
